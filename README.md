@@ -1,4 +1,4 @@
-# 👨‍💻 Welcome to My Decentralized Hub!
+# Hi I'm Juan! 👨‍💻 Welcome to My Decentralized Hub!
 
 ![Blockchain Banner](https://cdn4.vectorstock.com/i/1000x1000/79/68/block-chain-colored-banner-blockchain-vector-19327968.jpg)
 
