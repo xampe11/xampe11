@@ -1,6 +1,6 @@
 # 👨‍💻 Welcome to My Decentralized Hub!
 
-![Blockchain Banner](https://www.google.com/imgres?q=blockchain%20banner&imgurl=https%3A%2F%2Fcdn4.vectorstock.com%2Fi%2F1000x1000%2F79%2F68%2Fblock-chain-colored-banner-blockchain-vector-19327968.jpg&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fblock-chain-colored-banner-blockchain-vector-19327968&docid=A287u7AHfnz3rM&tbnid=RrlMJFUhNuBoXM&vet=12ahUKEwiqgtrNk5uIAxUtqZUCHQ9YGmQQM3oECE4QAA..i&w=1000&h=780&hcb=2&ved=2ahUKEwiqgtrNk5uIAxUtqZUCHQ9YGmQQM3oECE4QAA)
+![Blockchain Banner](https://cdn4.vectorstock.com/i/1000x1000/79/68/block-chain-colored-banner-blockchain-vector-19327968.jpg)
 
 I'm a **Blockchain and DApp Developer** passionate about creating decentralized solutions that empower users and redefine industries.
 
