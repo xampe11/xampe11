@@ -1,6 +1,7 @@
 # Hi I'm Juan! 👨‍💻 Welcome to My Decentralized Hub!
 
-![Blockchain Banner]()
+![download](https://github.com/user-attachments/assets/82acceb4-1780-4425-b9c6-2cac9d459034)!
+
 
 I'm a **Blockchain and DApp Developer** passionate about creating decentralized solutions that empower users and redefine industries.
 
