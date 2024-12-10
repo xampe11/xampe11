@@ -16,7 +16,7 @@ I'm a **Blockchain and DApp Developer** passionate about creating decentralized 
 
 ## 🛠️ Tools & Technologies
 
-- **Languages**: 🧑‍💻 Solidity, 🧑‍💻 JavaScript
+- **Languages**: 🧑‍💻 Solidity, 🧑‍💻 JavaScript (React.js, Next.js, Node.js)
 - **Frameworks**: 🚧 Truffle, 🛠️ Hardhat, 🌐 Ethers.js
 - **Blockchains**: ⛓️ Ethereum, ⛓️ Binance Smart Chain, ⛓️ Polygon
 - **Other Tools**: 🗂️ Git, 🐳 Docker, 🗃️ IPFS, 🔧 Claude, 🗂️ Slack, ⚡ JIRA
