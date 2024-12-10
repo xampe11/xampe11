@@ -19,26 +19,26 @@ I'm a **Blockchain and DApp Developer** passionate about creating decentralized 
 - **Languages**: 🧑‍💻 Solidity, 🧑‍💻 JavaScript
 - **Frameworks**: 🚧 Truffle, 🛠️ Hardhat, 🌐 Ethers.js
 - **Blockchains**: ⛓️ Ethereum, ⛓️ Binance Smart Chain, ⛓️ Polygon
-- **Other Tools**: 🗂️ Git, 🐳 Docker, 🗃️ IPFS, 🔧 Remix
+- **Other Tools**: 🗂️ Git, 🐳 Docker, 🗃️ IPFS, 🔧 Claude
 
   
 
 ## 🌱 What I'm Currently Building
-
-🔍 Exploring [insert current project or technology you're exploring] and diving deeper into [insert relevant area].
 
 👨‍💻 I am currently working on several projects to make sure I incorporate the blockchain essentials. Some of the projects are:
   - ERC20 Token creation, testing and deployment. [Check it out!](#)
   - Custom Vesting contracts. [Check it out!](#)
   - ERC721 Token creation, testing and deployment. [Check it out!](#)
   - NFT Marketplace contracts. [Check it out!](#)
+    
 
+🔍 Exploring Zero-Knowledge (ZK) Technology and diving deeper into Account Abstraction.
 
 
 ## 📫 Connect with Me
 
 - **🔗 LinkedIn**: [Juan Pablo Fariña](https://www.linkedin.com/in/juan-pablo-fari%C3%B1a-a1b8a2133)
-- **🌱 UpWork**: [Juan F.]((https://www.upwork.com/freelancers/~0141fcd0e64d9ad440?mp_source=share))
+- **🌱 UpWork**: [Juan F.](https://www.upwork.com/freelancers/~0141fcd0e64d9ad440?mp_source=share)
 - **✉️ Email**: [juampi.farinia@gmail.com](mailto:juampi.farinia@gmail.com)
   
 
