@@ -26,10 +26,11 @@ I'm a **Blockchain and DApp Developer** passionate about creating decentralized 
 ## 🌱 What I'm Currently Building
 
 👨‍💻 I am currently working on several projects to make sure I incorporate the blockchain essentials. Some of the projects are:
-  - ERC20 Token creation, testing and deployment. [Check it out!](#)
-  - Custom Vesting contracts. [Check it out!](#)
-  - ERC721 Token creation, testing and deployment. [Check it out!](#)
-  - NFT Marketplace contracts. [Check it out!](#)
+  - ERC20 Token creation, testing and deployment. [Check it out!](https://github.com/xampe11/ERC20TOKEN-and-VESTING-CONTRACT)
+  - Custom Vesting contracts. [Check it out!](https://github.com/xampe11/ERC20TOKEN-and-VESTING-CONTRACT)
+  - ERC721 Token creation, testing and deployment. [Check it out!](https://github.com/xampe11/nft-marketplace-project)
+  - NFT Marketplace contracts. [Check it out!](https://github.com/xampe11/nft-marketplace-project)
+  - CrowdFunding Website/Contracts. [Check it out!](https://github.com/xampe11/CrowdFunding-Project)
     
 
 🔍 Exploring Zero-Knowledge (ZK) Technology and diving deeper into Account Abstraction.
