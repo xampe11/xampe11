@@ -3,12 +3,16 @@
 
 I'm a **Blockchain and DApp Developer** passionate about creating decentralized solutions that empower users and redefine industries.
 
+
+
 ## 🚀 What I Do
 
 - **🔗 Smart Contracts**: Building secure, efficient, and transparent smart contracts to automate processes on the blockchain. 
 - **🌐 Decentralized Applications (DApps)**: Developing cutting-edge DApps that leverage the power of blockchain technology to deliver real-world solutions.
 - **🌍 Web3**: Integrating Web3 technologies to connect traditional systems with the decentralized world.
 - **💡 Innovative Technologies**: Constantly exploring new technologies to push the boundaries of what's possible in the decentralized space.
+
+  
 
 ## 🛠️ Tools & Technologies
 
@@ -17,14 +21,26 @@ I'm a **Blockchain and DApp Developer** passionate about creating decentralized 
 - **Blockchains**: ⛓️ Ethereum, ⛓️ Binance Smart Chain, ⛓️ Polygon
 - **Other Tools**: 🗂️ Git, 🐳 Docker, 🗃️ IPFS, 🔧 Remix
 
+  
+
 ## 🌱 What I'm Currently Building
+
 🔍 Exploring [insert current project or technology you're exploring] and diving deeper into [insert relevant area].
+
+👨‍💻 I am currently working on several projects to make sure I incorporate the blockchain essentials. Some of the projects are:
+  - ERC20 Token creation, testing and deployment. [Check it out!](#)
+  - Custom Vesting contracts. [Check it out!](#)
+  - ERC721 Token creation, testing and deployment. [Check it out!](#)
+  - NFT Marketplace contracts. [Check it out!](#)
+
+
 
 ## 📫 Connect with Me
 
 - **🔗 LinkedIn**: [Juan Pablo Fariña]((https://www.linkedin.com/in/juan-pablo-fari%C3%B1a-a1b8a2133/))
 - **🌱 UpWork**: [Juan F.]((https://www.upwork.com/freelancers/~0141fcd0e64d9ad440?mp_source=share))
 - **✉️ Email**: [juampi.farinia@gmail.com](mailto:juampi.farinia@gmail.com)
+  
 
 Feel free to explore my repositories and reach out if you share similar interests in the blockchain universe!
 
