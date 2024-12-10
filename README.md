@@ -37,7 +37,7 @@ I'm a **Blockchain and DApp Developer** passionate about creating decentralized 
 
 ## 📫 Connect with Me
 
-- **🔗 LinkedIn**: [Juan Pablo Fariña](#(https://www.linkedin.com/in/juan-pablo-fari%C3%B1a-a1b8a2133/))
+- **🔗 LinkedIn**: [Juan Pablo Fariña](https://www.linkedin.com/in/juan-pablo-fari%C3%B1a-a1b8a2133)
 - **🌱 UpWork**: [Juan F.]((https://www.upwork.com/freelancers/~0141fcd0e64d9ad440?mp_source=share))
 - **✉️ Email**: [juampi.farinia@gmail.com](mailto:juampi.farinia@gmail.com)
   
