@@ -18,6 +18,7 @@ I'm a **Blockchain and DApp Developer** passionate about creating decentralized 
 
 - **Languages**: 🧑‍💻 Solidity, 🧑‍💻 JavaScript
 - **Frameworks**: 🚧 Truffle, 🛠️ Hardhat, 🛠️ Foundry, 🌐 Ethers.js, ✨ React.js, ✨ Next.js
+- **Databases**: 🗂️ PostgreSQL, 🗂️ MondoDB
 - **Blockchains**: ⛓️ Ethereum, ⛓️ Binance Smart Chain, ⛓️ Polygon
 - **Other Tools**: 🗂️ Git, 🐳 Docker, 🗃️ IPFS, 🔧 Claude, 🗂️ Slack, ⚡ JIRA
 
