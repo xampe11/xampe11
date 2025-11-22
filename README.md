@@ -16,11 +16,11 @@ I'm a **Blockchain and DApp Developer** passionate about creating decentralized 
 
 ## 🛠️ Tools & Technologies
 
-- **Languages**: 🧑‍💻 Solidity, 🧑‍💻 JavaScript, 🧑‍💻 Typescript
+- **Languages**: 🧑‍💻 Solidity, 🧑‍💻 JavaScript, 🧑‍💻 Typescript, 🧑‍💻 Python
 - **Frameworks**: 🚧 Truffle, 🛠️ Hardhat, 🛠️ Foundry, 🌐 Ethers.js, ✨ React.js, ✨ Next.js
-- **Databases**: 🗂️ PostgreSQL, 🗂️ MongoDB
-- **Blockchains**: ⛓️ Ethereum, ⛓️ Binance Smart Chain, ⛓️ Polygon
-- **Other Tools**: 🗂️ Git, 🐳 Docker, 🗃️ IPFS, 🔧 Claude, 🗂️ Slack, ⚡ JIRA
+- **Databases**: 🗂️ PostgreSQL, 🗂️ MongoDB, 🗂️ GraphQL, 🗂️ SQLite
+- **Blockchains**: ⛓️ Ethereum, ⛓️ Binance Smart Chain, ⛓️ Polygon, ⛓️ Base
+- **Other Tools**: 🗂️ Git, 🗂️ GitHub, 🗂️ GitHub Actions, 🐳 Docker, 🐳 Docker Compose, 🗃️ IPFS, 🔧 Claude, 🗂️ Slack, ⚡ JIRA
 
   
 
